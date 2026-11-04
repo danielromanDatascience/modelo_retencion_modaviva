@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+# Archivos temporales de Python y Jupyter
+pycache/
+*.pyc
+.ipynb_checkpoints/
+# Credenciales y configuración local (nunca se suben)
+.env
+*.env
+# Archivos del sistema operativo y del editor
+.DS_Store
+Thumbs.db
+.vscode/
