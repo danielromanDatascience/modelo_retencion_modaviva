@@ -1,2 +1,4 @@
 # modelo_retencion_modaviva
-Modelo para predecir si el cliente vuelve a comprar en 3 meses.
+Este proyecto es para la empresa textilera, se desarrolla un modelo de clasificación para saber si el cliente comprará o nó en los próximos 3 meses.
+
+Se fundamenta en un modelo de regresión logística.
